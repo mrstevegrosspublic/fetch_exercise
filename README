@@ -1,0 +1,16 @@
+Welcome to Steve Gross' AMAZING GEO LOCATOR UTILITY!
+
+If you're using this tool, you're one of the lucky few
+beta testers of an impressive new technology for geolocation
+lookup!
+
+PREQUISITES
+
+This tool is designed to work with python3. There may be incompatibilities if you try
+to use an earlier version of Python (e.g.: v2.7).
+
+GETTING STARTED
+
+To run this tool, run `python geoloc_util.py --help` for invocation examples.
+
+To test this tool, run `python geoloc_util_integration_tests.py`
